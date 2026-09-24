@@ -1,0 +1,74 @@
+[
+  {
+    "nomeAluno": "Ana Beatriz Souza",
+    "sala": "8B",
+    "notas": [
+      7.5,
+      8.0,
+      6.25
+    ],
+    "media": 7.25,
+    "situacao": "Aprovado",
+    "avaliacaoComportamental": "Aluna participativa, educada e colaborativa com os colegas."
+  },
+  {
+    "nomeAluno": "Bruno Henrique Lima",
+    "sala": "8B",
+    "notas": [
+      5.0,
+      4.5,
+      6.0
+    ],
+    "media": 5.17,
+    "situacao": "Recuperação",
+    "avaliacaoComportamental": "Precisa melhorar a atenção durante as explicações."
+  },
+  {
+    "nomeAluno": "Camila Ferreira",
+    "sala": "9A",
+    "notas": [
+      9.0,
+      8.5,
+      10.0
+    ],
+    "media": 9.17,
+    "situacao": "Aprovado",
+    "avaliacaoComportamental": "Excelente desempenho e ótima postura em sala."
+  },
+  {
+    "nomeAluno": "Diego Almeida",
+    "sala": "9A",
+    "notas": [
+      3.0,
+      4.0,
+      2.5
+    ],
+    "media": 3.17,
+    "situacao": "Reprovado",
+    "avaliacaoComportamental": "Faltou a várias aulas; recomenda-se conversar com a família."
+  },
+  {
+    "nomeAluno": "Eduarda Martins",
+    "sala": "7C",
+    "notas": [
+      8.0,
+      7.0,
+      10.0
+    ],
+    "media": 8.33,
+    "situacao": "Aprovado",
+    "avaliacaoComportamental": "É FLAMENGUISTA, AUTOMATICAMENTE APROVADADA, DALHE MENGO"
+  },
+  {
+    "nomeAluno": "Felipe Santos",
+    "sala": "7C",
+    "notas": [
+      6.0,
+      6.0,
+      0.0
+    ],
+    "media": 4.0,
+    "situacao": "Recuperação",
+    "avaliacaoComportamental": "Tranquilo e pontual, entrega as atividades no prazo. Vive dando e, cima das coleguinhas, e ja deu cantada na mãe de diretora."
+  }
+]
