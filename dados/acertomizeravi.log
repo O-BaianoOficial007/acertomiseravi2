@@ -1,2 +1,88 @@
 2026-09-24 10:47:27,761 [INFO] dados: Backup criado: alunos_20260924_104727.json
 2026-09-24 10:54:23,415 [INFO] dados: Backup criado: alunos_20260924_105423.json
+2026-09-29 12:10:17,296 [INFO] dados: Backup criado: alunos_20260929_121017.json
+2026-09-29 12:10:57,750 [INFO] dados: Backup criado: alunos_20260929_121057.json
+2026-09-29 12:12:51,975 [ERROR] __main__: Erro fatal ao iniciar
+Traceback (most recent call last):
+  File "c:\Users\Aluno\desktop\acertomiseravi2\main.py", line 28, in main
+    app = Aplicativo(raiz)
+          ^^^^^^^^^^^^^^^^
+  File "c:\Users\Aluno\desktop\acertomiseravi2\interface.py", line 106, in __init__
+    self._montar_layout()
+  File "c:\Users\Aluno\desktop\acertomiseravi2\interface.py", line 167, in _montar_layout
+    self._montar_area_principal()
+  File "c:\Users\Aluno\desktop\acertomiseravi2\interface.py", line 209, in _montar_area_principal
+    self._montar_formulario(area)
+  File "c:\Users\Aluno\desktop\acertomiseravi2\interface.py", line 273, in _montar_formulario
+    self.quadro_formulario = ttk.LabelFrame(area, text="Novo Registro", padding=10, foreground="#ffffff")
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aluno\AppData\Local\Programs\Python\Python312\Lib\tkinter\ttk.py", line 751, in __init__
+    Widget.__init__(self, master, "ttk::labelframe", kw)
+  File "C:\Users\Aluno\AppData\Local\Programs\Python\Python312\Lib\tkinter\ttk.py", line 527, in __init__
+    tkinter.Widget.__init__(self, master, widgetname, kw=kw)
+  File "C:\Users\Aluno\AppData\Local\Programs\Python\Python312\Lib\tkinter\__init__.py", line 2661, in __init__
+    self.tk.call(
+_tkinter.TclError: unknown option "-foreground"
+2026-09-29 12:13:14,702 [ERROR] __main__: Erro fatal ao iniciar
+Traceback (most recent call last):
+  File "c:\Users\Aluno\desktop\acertomiseravi2\main.py", line 28, in main
+    app = Aplicativo(raiz)
+          ^^^^^^^^^^^^^^^^
+  File "c:\Users\Aluno\desktop\acertomiseravi2\interface.py", line 106, in __init__
+    self._montar_layout()
+  File "c:\Users\Aluno\desktop\acertomiseravi2\interface.py", line 167, in _montar_layout
+    self._montar_area_principal()
+  File "c:\Users\Aluno\desktop\acertomiseravi2\interface.py", line 209, in _montar_area_principal
+    self._montar_formulario(area)
+  File "c:\Users\Aluno\desktop\acertomiseravi2\interface.py", line 273, in _montar_formulario
+    self.quadro_formulario = ttk.LabelFrame(area, text="Novo Registro", padding=10, foreground="#ffffff")
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aluno\AppData\Local\Programs\Python\Python312\Lib\tkinter\ttk.py", line 751, in __init__
+    Widget.__init__(self, master, "ttk::labelframe", kw)
+  File "C:\Users\Aluno\AppData\Local\Programs\Python\Python312\Lib\tkinter\ttk.py", line 527, in __init__
+    tkinter.Widget.__init__(self, master, widgetname, kw=kw)
+  File "C:\Users\Aluno\AppData\Local\Programs\Python\Python312\Lib\tkinter\__init__.py", line 2661, in __init__
+    self.tk.call(
+_tkinter.TclError: unknown option "-foreground"
+2026-09-29 12:13:26,375 [ERROR] __main__: Erro fatal ao iniciar
+Traceback (most recent call last):
+  File "c:\Users\Aluno\desktop\acertomiseravi2\main.py", line 28, in main
+    app = Aplicativo(raiz)
+          ^^^^^^^^^^^^^^^^
+  File "c:\Users\Aluno\desktop\acertomiseravi2\interface.py", line 106, in __init__
+    self._montar_layout()
+  File "c:\Users\Aluno\desktop\acertomiseravi2\interface.py", line 167, in _montar_layout
+    self._montar_area_principal()
+  File "c:\Users\Aluno\desktop\acertomiseravi2\interface.py", line 209, in _montar_area_principal
+    self._montar_formulario(area)
+  File "c:\Users\Aluno\desktop\acertomiseravi2\interface.py", line 273, in _montar_formulario
+    self.quadro_formulario = ttk.LabelFrame(area, text="Novo Registro", padding=10, foreground="#ffffff")
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aluno\AppData\Local\Programs\Python\Python312\Lib\tkinter\ttk.py", line 751, in __init__
+    Widget.__init__(self, master, "ttk::labelframe", kw)
+  File "C:\Users\Aluno\AppData\Local\Programs\Python\Python312\Lib\tkinter\ttk.py", line 527, in __init__
+    tkinter.Widget.__init__(self, master, widgetname, kw=kw)
+  File "C:\Users\Aluno\AppData\Local\Programs\Python\Python312\Lib\tkinter\__init__.py", line 2661, in __init__
+    self.tk.call(
+_tkinter.TclError: unknown option "-foreground"
+2026-09-29 12:13:42,540 [INFO] dados: Backup criado: alunos_20260929_121342.json
+2026-09-29 12:14:39,005 [INFO] dados: Backup criado: alunos_20260929_121439.json
+2026-09-29 12:17:06,430 [ERROR] __main__: Erro fatal ao iniciar
+Traceback (most recent call last):
+  File "c:\Users\Aluno\desktop\acertomiseravi2\main.py", line 28, in main
+    app = Aplicativo(raiz)
+          ^^^^^^^^^^^^^^^^
+  File "c:\Users\Aluno\desktop\acertomiseravi2\interface.py", line 106, in __init__
+    self._montar_layout()
+  File "c:\Users\Aluno\desktop\acertomiseravi2\interface.py", line 167, in _montar_layout
+    self._montar_area_principal()
+  File "c:\Users\Aluno\desktop\acertomiseravi2\interface.py", line 209, in _montar_area_principal
+    self._montar_formulario(area)
+  File "c:\Users\Aluno\desktop\acertomiseravi2\interface.py", line 279, in _montar_formulario
+    ttk.Label(form, text="Nome do Aluno:").grid(row=0, column=0, sticky="w", pady=3, foreground="#ffffff")
+  File "C:\Users\Aluno\AppData\Local\Programs\Python\Python312\Lib\tkinter\__init__.py", line 2580, in grid_configure
+    self.tk.call(
+_tkinter.TclError: bad option "-foreground": must be -column, -columnspan, -in, -ipadx, -ipady, -padx, -pady, -row, -rowspan, or -sticky
+2026-09-29 12:17:42,496 [INFO] dados: Backup criado: alunos_20260929_121742.json
+2026-09-29 12:18:01,360 [INFO] dados: Backup criado: alunos_20260929_121801.json
+2026-09-29 12:20:55,470 [INFO] dados: Backup criado: alunos_20260929_122055.json

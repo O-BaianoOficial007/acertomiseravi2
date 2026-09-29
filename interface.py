@@ -27,8 +27,8 @@ VERSAO = "1.0"
 TODAS_AS_SALAS = "Todas"
 TRACO = "—"
 
-COR_FUNDO = "#eef2f7"
-COR_DESTAQUE = "#1f4e8c"
+COR_FUNDO = "#011024"
+COR_DESTAQUE = "#ffffff"
 COR_ALERTA = "#b3261e"
 COR_STATUS = "#dde5f0"
 
@@ -120,7 +120,7 @@ class Aplicativo:
 
         self.raiz.configure(background=COR_FUNDO)
         estilo.configure("TFrame", background=COR_FUNDO)
-        estilo.configure("TLabel", background=COR_FUNDO)
+        estilo.configure("TLabel", background=COR_FUNDO, foreground="#ffffff")
         estilo.configure("TLabelframe", background=COR_FUNDO)
         estilo.configure(
             "TLabelframe.Label", background=COR_FUNDO, foreground=COR_DESTAQUE, font=self.fonte_negrito
